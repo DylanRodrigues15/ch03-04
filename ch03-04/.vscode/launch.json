@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DialogViewer2",
+            "request": "launch",
+            "mainClass": "ch1.DialogViewer2",
+            "projectName": "ch01-02"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DialogViewer",
+            "request": "launch",
+            "mainClass": "ch1.DialogViewer",
+            "projectName": "ch01-02"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Volume2",
+            "request": "launch",
+            "mainClass": "ch2.Volume2",
+            "projectName": "ch01-02"
+        }
+    ]
+}
